@@ -7,6 +7,7 @@ public class hello {
 		
 		
 		System.out.println("line one");
+		System.out.println("line two");
 	}
 
 }
